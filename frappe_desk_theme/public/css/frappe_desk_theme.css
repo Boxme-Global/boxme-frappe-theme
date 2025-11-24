@@ -22,7 +22,9 @@
 /* ========================================
    LOGIN PAGE STYLING
    ======================================== */
-
+button {
+	color:blue!important;
+}
 /* Main login page container - supports custom backgrounds and full viewport height */
 #page-login {
     background: var(--login-bg-color, transparent);
